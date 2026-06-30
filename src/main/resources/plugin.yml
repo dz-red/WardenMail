@@ -1,0 +1,12 @@
+name: WardenMail
+version: 1.0
+main: fun.wardensmp.mail.WardenMail
+api-version: '1.21'
+author: WardenSMP
+commands:
+  mail:
+    description: Единая Почта Warden SMP
+    usage: /mail help
+permissions:
+  mail.admin: {description: Управление отделениями, default: op}
+  mail.staff: {description: Сотрудники почты, default: op}
