@@ -4,3 +4,4 @@ target/
 *.iml
 .vscode/
 *.jar
+dependency-reduced-pom.xml
